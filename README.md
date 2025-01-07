@@ -6,13 +6,12 @@ Chief Technical Officer
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [moskalchukvs@gmail.com](mailto:moskalchukvs@gmail.com)
-* 🚀  I'm currently working on [variety of IT projects for podruge.ru](http://podruge.ru)
-* 🧠  I'm learning 1C-Bitrix, PHP
+* 🚀  I'm currently working on [variety of IT projects for podruge.ru](https://podruge.ru)
+* 🧠  I'm learning 1C-Bitrix, PHP, Python, 1C
 * 🤝  I'm open to collaborating on IT-projects about business-processes automation
 * ⚡  I am interested in science fiction literature and RP board games
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -23,7 +22,6 @@ Chief Technical Officer
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
 
 ### Socials
 
